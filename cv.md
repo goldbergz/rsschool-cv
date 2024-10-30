@@ -1,4 +1,4 @@
-##Zolotogornaya Maria
+##Maria Zolotogornaya
 
 ###Contacs
 * **Location:** Russia, Kazan
@@ -24,3 +24,35 @@ My goal is to become a professional who knows how to create quality and user-fri
 
 -----
 
+###Code Examples
+```
+function capitalize(s,arr){
+   return s.split('').map((char, index) => {
+    return arr.includes(index) ? char.toUpperCase() : char;
+  }).join('');
+};
+```
+----
+
+###Experience
+* **Yandex Taxi** *(Sep 2024 - Current)*
+    + ML quality manager
+* **Yandex Crowd** *(Sep 2023 - Sep 2024)*
+    + Data markup specialist
+
+----
+
+###Education
+* **St. Petersburg State University of Civil Aviation** *(2020 - 2024)*
+    + Technology of transportation processes, bachelor
+* **Hexlet**
+    + HTML, CSS, Git, JS
+* **HTML Academy**
+* **Yandex Grade**
+    + Modular and asynchronous development
+* **Stepik**
+
+----
+
+###Language
+* **English** - A2 (Elementary)
