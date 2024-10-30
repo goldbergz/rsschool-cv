@@ -1,1 +1,1 @@
-# rsschool-cv
+https://goldbergz.github.io/rsschool-cv/cv
